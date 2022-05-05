@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/takeaway-platform/takeaway-platform-backend/sukura.iml" filepath="$PROJECT_DIR$/takeaway-platform/takeaway-platform-backend/sukura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/takeaway-platform.iml" filepath="$PROJECT_DIR$/.idea/takeaway-platform.iml" />
+    </modules>
+  </component>
+</project>

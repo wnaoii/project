@@ -1,0 +1,62 @@
+{
+  "public": {
+    "servface": "12",
+    "zoneno": "01001",
+    "project_id": "",
+    "tellerno": "00121",
+    "product_id": "",
+    "brno": "1907"
+  },
+  "commcitr": {
+    "summary": "京东快捷支付",
+    "trxcode": "81117",
+    "drmdcardno": "10011648290069696",
+    "amount": "1",
+    "agentno": "",
+    "busi_info": "",
+    "iftrxsernb": "20100775",
+    "req_time": "095639",
+    "termid": "tty01",
+    "cashexf": "0",
+    "req_date": "20201001",
+    "agenttyp": "",
+    "revtranf": "0",
+    "crmdcardno": "9558881001002798254",
+    "currtype": "1"
+  },
+  "ctrlcomm": {
+    "ckpin_f": "0"
+  },
+  "channel": {
+    "oapp": "F-RFBP",
+    "chan_type": "502",
+    "chan_serialno": "940410010184008930066517453"
+  },
+  "spexcomm": {
+    "vhquota": "",
+    "statcode": "",
+    "settmode": "",
+    "vouhtype": "",
+    "vouhno": "",
+    "vouhdate": "1900-01-01",
+    "vouhpwd": ""
+  },
+  "infocomm": {
+    "authcode": "",
+    "authpwd": "",
+    "vagen_level": "",
+    "authamt": "",
+    "authtlno": "",
+    "dutyno": "",
+    "cardno": ""
+  },
+  "fee52019": {
+    "manuamt_f": "1"
+  },
+  "draccinf": {
+    "obflag": "0",
+    "chknamf": "0",
+    "accname": "音榴皮"
+  },
+  "craccinf": {}
+}

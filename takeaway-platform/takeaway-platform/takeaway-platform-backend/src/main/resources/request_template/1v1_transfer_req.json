@@ -1,0 +1,45 @@
+{
+  "channel": {
+    "chan_serialno": "030202000000001431713864089",
+    "chan_type": "502",
+    "oapp": "F-RFBP"
+  },
+  "commcitr": {
+    "accpin": "",
+    "amount": "100",
+    "cashexf": "0",
+    "crmdcardno": "6222021001799990152",
+    "currtype": "1",
+    "drmdcardno": "6222021001799990087",
+    "iftrxsernb": "0004081",
+    "ptrxsernb": "",
+    "req_date": "20200518",
+    "req_time": "000506",
+    "revtranf": "0",
+    "summary": "",
+    "termid": "tty01",
+    "trxcode": "8103"
+  },
+  "craccinf": {
+    "accname": "fffffff",
+    "chknamf": "1"
+  },
+  "ctrlcomm": {
+    "ckid_f": "0",
+    "ckpin_f": "0"
+  },
+  "draccinf": {
+    "accname": ""
+  },
+  "fee52019": {
+    "manuamt_f": "1"
+  },
+  "public": {
+    "brno": "01907",
+    "product_id": "202",
+    "project_id": "101",
+    "servface": "12",
+    "tellerno": "169",
+    "zoneno": "01001"
+  }
+}

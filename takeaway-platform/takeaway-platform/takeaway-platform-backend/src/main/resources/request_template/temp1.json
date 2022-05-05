@@ -1,0 +1,60 @@
+{
+  "public": {
+    "servface": "12",
+    "zoneno": "01001",
+    "project_id": "",
+    "tellerno": "169",
+    "product_id": "",
+    "brno": "01907"
+  },
+  "commcitr": {
+    "summary": "tjy",
+    "trxcode": "81012",
+    "drmdcardno": "1001280909300038525",
+    "amount": "1",
+    "agentno": "",
+    "busi_info": "",
+    "iftrxsernb": "12601",
+    "req_time": "121212",
+    "termid": "tty01",
+    "cashexf": "0",
+    "req_date": "20150825",
+    "agenttyp": "",
+    "revtranf": "0",
+    "crmdcardno": "6212251001799990071",
+    "currtype": "1"
+  },
+  "ctrlcomm": {
+    "ckpin_f": "0"
+  },
+  "channel": {
+    "oapp": "F-RFBP",
+    "chan_type": "502",
+    "chan_serialno": "94041001016753877089984522"
+  },
+  "spexcomm": {
+    "vhquota": "",
+    "statcode": "",
+    "settmode": "",
+    "vouhtype": "",
+    "vouhno": "",
+    "vouhdate": "1900-01-01",
+    "vouhpwd": ""
+  },
+  "infocomm": {
+    "authcode": "",
+    "authpwd": "",
+    "vagen_level": "",
+    "authamt": "",
+    "authtlno": "",
+    "dutyno": "",
+    "cardno": ""
+  },
+  "fee52019": {
+    "manuamt_f": "1"
+  },
+  "draccinf": {
+    "obflag": "0"
+  },
+  "craccinf": {}
+}

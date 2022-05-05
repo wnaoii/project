@@ -1,0 +1,13 @@
+logging:
+  path: ./logs
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/takeaway
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
+  jpa:
+    show-sql: true
+
+env:
+  imageprefix: http://localhost:9220/takeaway/plaform/api/image/
